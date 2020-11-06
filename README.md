@@ -1,2 +1,2 @@
 # my-tailwind-project
-Proyecto para conocer el entorno de trabajo con tailwind df
+Proyecto para conocer el entorno de trabajo con tailwind
